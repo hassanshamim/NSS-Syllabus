@@ -28,11 +28,10 @@ For Day 4, the students each researched a Unix command:
   1. git
   1. kill
   1. ln
-  1. grep
+  1. grep / ps
   1. less / more
   1. cat
   1. sudo
-  1. ps
 
 Also:
  
