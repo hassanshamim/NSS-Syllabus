@@ -31,10 +31,10 @@ For Day 4, the students each researched a Unix command:
   1. grep / ps
   1. less / more
   1. cat
-  1. sudo
 
 Also:
- 
+
+  * sudo
   * whoami
   * touch
   * $PATH
