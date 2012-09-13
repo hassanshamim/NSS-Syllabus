@@ -5,8 +5,9 @@ Student Instructions:
 ---------------------
 
   1. Fork this repository
-  2. In *your* repository, commit the notes/slides for your research.
-    * Name the file something like: 01\_ls\_pwd.txt
+  2. In *your* repository, commit the notes/slides for your research
+    * Put your notes in the folder that matches your command
+    * Your files should be either PDF, markdown or plain-text
     * Include links to reference material you used
     * Include information on the most important flags/uses of your command
   3. Commit and push your files
